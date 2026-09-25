@@ -1,10 +1,12 @@
 # DMart Daily Sales Forecasting using Machine Learning
 
 A machine learning project designed to forecast daily sales trends from retail transaction data using time-series feature extraction and an ensemble Random Forest Regressor.
- 📌 Project Overview
+
+##📌 Project Overview
+
 Accurate demand forecasting enables retail chains like DMart to optimize inventory replenishment, prevent stock-outs, and minimize carrying costs. This project processes transactional records, aggregates daily sales volume, engineers calendar and historical lag features, and evaluates predictive accuracy on unseen test data.
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 Language: Python 3.x
 
 Data Processing: Pandas, NumPy
@@ -13,7 +15,7 @@ Machine Learning: Scikit-Learn (RandomForestRegressor)
 
 Visualization: Matplotlib
 
- ⚙️ Methodology & Pipeline
+##⚙️ Methodology & Pipeline
 1. Data Preprocessing & Cleaning
 Extracted clean timestamps and filtered non-numeric/null records.
 
